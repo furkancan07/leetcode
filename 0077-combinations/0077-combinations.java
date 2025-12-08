@@ -12,11 +12,11 @@ class Solution {
             list.add(new ArrayList<>(path));
         }
         for(int i=index;i<=n;i++){
-          if(visited[i]) continue;
+          
           path.add(i);
-          visited[i]=true;
+          
           dfs(n,k,list,path,visited,i+1);
-          visited[i]=false;
+          
           path.remove(path.size()-1);
         }
     }
