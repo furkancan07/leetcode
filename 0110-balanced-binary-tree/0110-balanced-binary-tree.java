@@ -15,9 +15,7 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        if(root==null) return true;
-        if(depth(root)==-1) return false;
-        return isBalanced(root.right) && isBalanced(root.left);
+        return depth(root)!=-1;
 
     }
     public int depth(TreeNode root){
