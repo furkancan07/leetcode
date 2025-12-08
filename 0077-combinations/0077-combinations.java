@@ -12,6 +12,7 @@ class Solution {
             list.add(new ArrayList<>(path));
             return;
         }
+        if(path.size()>k) return ;
         for(int i=index;i<=n;i++){
           
           path.add(i);
