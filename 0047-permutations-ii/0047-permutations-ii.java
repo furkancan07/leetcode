@@ -13,6 +13,8 @@ class Solution {
             return;
         }
 
+        if(path.size()>nums.length) return ;
+
         for(int i=0;i<nums.length;i++){
             if(visited[i]) continue;
 
