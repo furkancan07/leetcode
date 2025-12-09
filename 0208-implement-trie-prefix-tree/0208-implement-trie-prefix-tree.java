@@ -1,7 +1,7 @@
 class Trie {
 
     class TrieNode{
-     Map<Character,TrieNode> children=new HashMap<>();
+    TrieNode[] children=new TrieNode[26];
     boolean isWord=false;
     }
   
@@ -15,8 +15,9 @@ class Trie {
     public void insert(String word) {
           TrieNode current=root;
           for(char c : word.toCharArray()){
-             current.children.putIfAbsent(c,new TrieNode());
-             current=current.children.get(c);
+            int index=c-'a';
+             if(current.children[index]==null) current.children[index]=new TrieNode();
+             current=current.children[index];
           }
           current.isWord=true;
         
@@ -25,8 +26,9 @@ class Trie {
     public boolean search(String word) {
         TrieNode current = root;
         for (char c : word.toCharArray()) {
-            if (!current.children.containsKey(c)) return false;
-            current = current.children.get(c);
+            int index=c-'a';
+            if (current.children[index]==null) return false;
+            current=current.children[index];
         }
         return current.isWord;
     }
@@ -34,8 +36,9 @@ class Trie {
     public boolean startsWith(String prefix) {
          TrieNode current=root;
           for(char c : prefix.toCharArray()){
-             if(!current.children.containsKey(c)) return false;
-             current=current.children.get(c); 
+            int index=c-'a';
+             if(current.children[index]==null) return false;
+             current=current.children[index];
           }
         return true;
     }
