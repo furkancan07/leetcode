@@ -9,13 +9,7 @@ class Solution {
        
         
         for(String str : wordDict){
-            TrieNode current=root;
-            for(char c : str.toCharArray()){
-                int idx=c-'a';
-                if(current.children[idx]==null) current.children[idx]=new TrieNode();
-                current=current.children[idx];
-            }
-             current.isWord=true;
+            insert(str);
              
         }
 
@@ -35,8 +29,17 @@ class Solution {
             }
         }
         
-          return dp[s.length()];
+        return dp[s.length()];
         
+    }
+    public void insert(String str){
+          TrieNode current=root;
+            for(char c : str.toCharArray()){
+                int idx=c-'a';
+                if(current.children[idx]==null) current.children[idx]=new TrieNode();
+                current=current.children[idx];
+            }
+             current.isWord=true;
     }
     // time hatası
     public boolean backTracking(String s,int index){
