@@ -34,7 +34,7 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-       before.next=null;
+        if(before.next!=null) before.next=null;
         return slow;
     }
     public ListNode merge(ListNode l1,ListNode l2){
