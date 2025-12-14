@@ -1,22 +1,17 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        
        StringBuilder sb = new StringBuilder();
          for (int d : digits) {
            sb.append(d);
            }
          String str = sb.toString();
         str=sum(str,"1");
-        List<Integer> list=new ArrayList<>();
+        int[] res=new int[str.length()];
         for(int i=0;i<str.length();i++){
-            list.add(str.charAt(i)-'0');
+            res[i]=str.charAt(i)-'0';
         }
-        
 
-       
-        return list.stream()
-                .mapToInt(Integer::intValue)
-                .toArray();
+        return res;
     }
     public String sum(String s1,String s2){
        int i=s1.length()-1;
