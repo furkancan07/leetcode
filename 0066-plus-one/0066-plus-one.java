@@ -2,14 +2,14 @@ class Solution {
     public int[] plusOne(int[] digits) {
         
        StringBuilder sb = new StringBuilder();
-for (int d : digits) {
-    sb.append(d);
-}
-String str = sb.toString();
-        String result=sum(str,"1");
+         for (int d : digits) {
+           sb.append(d);
+           }
+         String str = sb.toString();
+        str=sum(str,"1");
         List<Integer> list=new ArrayList<>();
-        for(int i=0;i<result.length();i++){
-            list.add(result.charAt(i)-'0');
+        for(int i=0;i<str.length();i++){
+            list.add(str.charAt(i)-'0');
         }
         
 
