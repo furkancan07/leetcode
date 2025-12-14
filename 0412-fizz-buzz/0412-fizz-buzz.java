@@ -7,8 +7,11 @@ class Solution {
             }
             else if(i%3==0){
                 list.add("Fizz");
-            }else{
-                list.add(i);
+            }else if(i%5==0){
+                list.add("Buzz");
+            }
+            else{
+                list.add(i+"");
             }
 
         }
