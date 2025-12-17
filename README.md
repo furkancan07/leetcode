@@ -30,7 +30,7 @@ LeetCode çözümlerimi ve algoritma konularını detaylı şekilde anlattığı
 - Veri yapıları konulu anlatımlar
 - Coding interview hazırlık ipuçları
 
-> Abone olmayı ve bildirimleri açmayı unutmayın!
+
 
 ---
 
