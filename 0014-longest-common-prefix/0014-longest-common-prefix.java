@@ -1,41 +1,34 @@
-
-/*
-Trie Ağacına kelimeleri ekledik hepsi amac prefixi bulmak countumuz 1 i geçerse demek ki bir kelime a ile balayıp bi kelime b ile başlamış hata veya isende gelmişse bunun dışında tüm charları almak gerek
- */
 class Solution {
-    class TrieNode{
+    public class TrieNode{
         TrieNode[] children=new TrieNode[26];
         boolean isEnd=false;
     }
     TrieNode root=new TrieNode();
     public String longestCommonPrefix(String[] strs) {
-        for(String  s :strs){
-            insert(s);
+        for(String str :strs){
+            insert(str);
         }
         TrieNode current=root;
         StringBuilder sb=new StringBuilder();
         while(true){
-            int count=0;
-            int nextIndex=-1;
-
+            int pointer=0;
+            int index=-1;
             for(int i=0;i<26;i++){
                 if(current.children[i]!=null){
-                    count++;
-                    nextIndex=i;
+                    pointer++;
+                    index=i;
                 }
             }
-            if(count!=1 || current.isEnd) break;
-            sb.append((char) (nextIndex + 'a'));
-            current = current.children[nextIndex];
+            if(pointer!=1 || current.isEnd) break;
+            sb.append((char)(index+'a'));
+            current=current.children[index];
         }
-
-       return sb.toString();
-
+        return sb.toString();
         
     }
-    public void insert(String s){
+    public void insert(String word){
         TrieNode current=root;
-        for(char c : s.toCharArray()){
+        for(char c : word.toCharArray()){
             int index=c-'a';
             if(current.children[index]==null) current.children[index]=new TrieNode();
             current=current.children[index];
