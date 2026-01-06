@@ -1,46 +1,46 @@
+// bilgisayar
+// bilgi 
 class Trie {
-
-    class TrieNode{
-    TrieNode[] children=new TrieNode[26];
-    boolean isWord=false;
+    public class TrieNode{
+        TrieNode[] children=new TrieNode[26];
+        boolean isEnd=false;
     }
-  
     TrieNode root;
     public Trie() {
-       root=new TrieNode();
+        root=new TrieNode();
     }
-
-    
     
     public void insert(String word) {
-          TrieNode current=root;
-          for(char c : word.toCharArray()){
+        TrieNode current=root;
+        for(char c : word.toCharArray()){
             int index=c-'a';
-             if(current.children[index]==null) current.children[index]=new TrieNode();
-             current=current.children[index];
-          }
-          current.isWord=true;
-        
-    }
-    
-    public boolean search(String word) {
-        TrieNode current = root;
-        for (char c : word.toCharArray()) {
-            int index=c-'a';
-            if (current.children[index]==null) return false;
+            if(current.children[index]==null) current.children[index]=new TrieNode();
             current=current.children[index];
         }
-        return current.isWord;
+        current.isEnd=true;
+        
     }
-    
+    // bil
+    public boolean search(String word) {
+         TrieNode current=root;
+        for(char c : word.toCharArray()){
+            int index=c-'a';
+            if(current.children[index]==null) return false;
+            current=current.children[index];
+        }
+        return current.isEnd;
+        
+    }
+    // bilgi
     public boolean startsWith(String prefix) {
          TrieNode current=root;
-          for(char c : prefix.toCharArray()){
+        for(char c : prefix.toCharArray()){
             int index=c-'a';
-             if(current.children[index]==null) return false;
-             current=current.children[index];
-          }
+            if(current.children[index]==null) return false;
+            current=current.children[index];
+        }
         return true;
+        
     }
 }
 
