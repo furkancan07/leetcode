@@ -71,9 +71,7 @@ Bu depo şu araç ve iş akışıyla yönetilmektedir:
 
 Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue açabilir veya pull request gönderebilirsiniz.
 
-## İletişim
 
-- **YouTube:** [@algoritmamaratonu](https://www.youtube.com/@algoritmamaratonu)
 
 
 ---
