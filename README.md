@@ -22,7 +22,7 @@ Bu depo şu amaçlarla oluşturulmuştur:
 
 LeetCode çözümlerimi ve algoritma konularını detaylı şekilde anlattığım YouTube kanalım:
 
-### [Algoritma Maratonu](https://www.youtube.com/@algoritmamaratonu)
+### [Youtube](https://www.youtube.com/@algoritmamaratonu)
 
 **Kanalda bulabileceğiniz içerikler:**
 - Detaylı soru çözümleri ve açıklamalar
