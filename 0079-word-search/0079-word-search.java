@@ -28,7 +28,7 @@ class Solution {
         }
 
         for(char c : word.toCharArray()){
-            if(--count[c]<0){
+            if(count[c]==0){
                 return false;
             }
         }
