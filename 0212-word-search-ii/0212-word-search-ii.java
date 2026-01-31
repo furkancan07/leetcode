@@ -38,7 +38,7 @@ class Solution {
      public boolean control(String word){
         int[] count=globalCount.clone();
         for(char c : word.toCharArray()){
-            if(--count[c]<0) return false;
+            if(count[c]==0) return false;
          }
          return true;
     }
