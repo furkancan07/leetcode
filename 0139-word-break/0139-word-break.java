@@ -9,8 +9,7 @@ class Solution {
        
         
         for(String str : wordDict){
-            insert(str);
-             
+            insert(str);    
         }
 
         boolean[] dp=new boolean[s.length()+1];
