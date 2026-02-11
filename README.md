@@ -2,6 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YQJCVT3fw6/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@algoritmamaratonu)
 
 Bu depo, LeetCode üzerindeki çözdüğüm algoritma ve veri yapısı sorularının çözümlerini içermektedir.  
 Tüm çözümler **LeetHub v2** aracı kullanılarak otomatik olarak GitHub deposuna aktarılmaktadır.
@@ -17,6 +18,21 @@ Bu depo şu amaçlarla oluşturulmuştur:
 - Önceden çözülmüş soruları tekrar gözden geçirmek
 - Düzenli pratik alışkanlığı oluşturmak
 
+## YouTube Kanalım
+
+LeetCode çözümlerimi ve algoritma konularını detaylı şekilde anlattığım YouTube kanalım:
+
+### [Youtube](https://www.youtube.com/@algoritmamaratonu)
+
+**Kanalda bulabileceğiniz içerikler:**
+- Detaylı soru çözümleri ve açıklamalar
+- Algoritma stratejileri ve pattern'ler
+- Veri yapıları konulu anlatımlar
+- Coding interview hazırlık ipuçları
+
+
+
+---
 
 ## Yapı
 
@@ -59,4 +75,3 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 
 
 ---
-
