@@ -55,7 +55,7 @@ Bu depo şu araç ve iş akışıyla yönetilmektedir:
 - Tüm çözümler tarafımdan yazılmıştır
 - Bazı problemlerde birden fazla çözüm veya optimize edilmiş sürüm bulunabilir
 - Çözümler Java dilinde yazılmıştır
-- Bazı çözümlerin detaylı anlatımını YouTube kanalımda bulabilirsiniz
+
 
 ---
 
