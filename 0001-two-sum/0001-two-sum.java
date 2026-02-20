@@ -9,7 +9,7 @@ class Solution {
                 map.put(nums[i],i);
             }
         }
-        throw new IllegalArgumentException();
+        return new int[2];
       
     }
 }
