@@ -1,18 +1,16 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         if(s.length()!=t.length()) return false;
-        int[] count=new int[26];
-        int[] count2=new int[26];
+        int[] map=new int[128];
+        int[] map2=new int[128];
  
-        for(char c : s.toCharArray()){
-            count[c-'a']++;
-        }    
-        for(char c : t.toCharArray()){
-            count2[c-'a']++;
-        }
+        
 
         for(int i=0;i<s.length();i++){
-             if(count[s.charAt(i)-'a']!=count2[t.charAt(i)-'a']) return false;
+             if(map[s.charAt(i)]!=map2[t.charAt(i)]) return false;
+
+             map[s.charAt(i)]=i+1;
+             map2[t.charAt(i)]=i+1;
         }
 
  
