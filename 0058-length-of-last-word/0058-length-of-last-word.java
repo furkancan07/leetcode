@@ -1,5 +1,5 @@
 class Solution {
-    public int lengthOfLastWord(String s) {
+    public int lengthOfLastWord2(String s) {
        List<String> list = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
 
@@ -20,4 +20,8 @@ class Solution {
 
         return list.get(list.size() - 1).length();
     }
+    public int lengthOfLastWord(String s){
+        String[] array=s.split("\\s++");
+        return array.length==0 ? 0 : array[array.length-1].length();
+    } 
 }
