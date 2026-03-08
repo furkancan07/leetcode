@@ -75,6 +75,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/furkancan07/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +97,20 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
