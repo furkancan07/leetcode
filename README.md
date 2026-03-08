@@ -73,10 +73,12 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/furkancan07/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -86,4 +88,12 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
