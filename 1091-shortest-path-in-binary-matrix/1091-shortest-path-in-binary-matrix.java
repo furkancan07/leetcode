@@ -3,7 +3,7 @@ class Solution {
         int n = grid.length;
         if (grid[0][0] != 0 || grid[n-1][n-1] != 0) return -1;
         int[][] directions={{1,0},{0,1},{-1,0},{0,-1},{1,1},{1,-1},{-1,1},{-1,-1}};
-        Queue<int[]> bfs=new LinkedList<>();
+        Queue<int[]> bfs=new ArrayDeque<>();
         bfs.offer(new int[]{0,0,1});
 
         while(!bfs.isEmpty()){
