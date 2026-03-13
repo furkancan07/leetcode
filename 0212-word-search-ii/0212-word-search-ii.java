@@ -6,7 +6,7 @@ class Solution {
     int n;
     Set<String> set;
     class TrieNode{
-        Map<Character,TrieNode> children=new HashMap<>();
+        TrieNode[] children=new TrieNode[26];
         String word=null;
     }
     public List<String> findWords(char[][] board, String[] words) {
@@ -45,8 +45,9 @@ class Solution {
     public void insert(TrieNode root,String word){
         TrieNode current=root;
         for(char c : word.toCharArray()){
-            current.children.putIfAbsent(c,new TrieNode());
-            current=current.children.get(c);
+            int index=c-'a';
+            if(current.children[index]==null) current.children[index]=new TrieNode();
+            current=current.children[index];
         }
         current.word=word;
     }
@@ -54,8 +55,8 @@ class Solution {
         if(i<0 || i>=m || j<0 || j>=n) return;
         char temp=board[i][j];
         
-        if(temp=='.' || !node.children.containsKey(temp)) return;
-        node=node.children.get(temp);
+        if(temp=='.' || node.children[temp-'a']==null) return;
+        node=node.children[temp-'a'];
         if(node.word!=null){
             set.add(node.word);
             node.word=null;
