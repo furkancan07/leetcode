@@ -80,6 +80,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +115,24 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
