@@ -7,7 +7,7 @@ class Solution {
         }
         
         for(int[] pre : prerequisites){
-            graph.get(pre[1]).add(pre[0]);
+            graph.get(pre[0]).add(pre[1]);
         }
         int[] visited=new int[numCourses];
         for(int i=0;i<numCourses;i++){
