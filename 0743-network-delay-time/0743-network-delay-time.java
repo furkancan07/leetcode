@@ -82,7 +82,7 @@ class Solution {
             if(u==-1) break;
             visited[u]=true;
             for(int v=1;v<=n;v++){
-                if(!visited[v] && graph[u][v]<INF && dist[u]+graph[u][v]<dist[v]){
+                if(!visited[v] &&  dist[u]+graph[u][v]<dist[v]){
                     dist[v]=dist[u]+graph[u][v];
                 }
             }
