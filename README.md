@@ -89,6 +89,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/furkancan07/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Matrix
@@ -120,6 +121,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/furkancan07/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/furkancan07/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -170,4 +173,8 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/furkancan07/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/furkancan07/leetcode/tree/main/0202-happy-number/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
