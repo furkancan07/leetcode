@@ -14,11 +14,11 @@ class Solution {
         this.set=new HashSet<>();
         this.m=board.length;
         this.n=board[0].length;
-        this.globalCount=new int[128];
+        this.globalCount=new int[26];
 
         for(int i=0;i<m;i++ ){
             for(int j=0;j<n;j++){
-                globalCount[board[i][j]]++;
+                globalCount[board[i][j]-'a']++;
             }
         }
         TrieNode root=new TrieNode();
@@ -38,7 +38,7 @@ class Solution {
      public boolean control(String word){
         int[] count=globalCount.clone();
         for(char c : word.toCharArray()){
-            if(count[c]==0) return false;
+            if(count[c-'a']==0) return false;
          }
          return true;
     }
