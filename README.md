@@ -75,6 +75,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/furkancan07/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/furkancan07/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/furkancan07/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
@@ -120,6 +121,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/furkancan07/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/furkancan07/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -153,6 +155,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/furkancan07/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/furkancan07/leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -177,4 +180,8 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/furkancan07/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 <!---LeetCode Topics End-->
