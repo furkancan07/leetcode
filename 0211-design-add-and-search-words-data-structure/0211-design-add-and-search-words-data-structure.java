@@ -27,12 +27,10 @@ class WordDictionary {
         if(root==null) return false;
         if(index==word.length()) return root.isWord;
         char c=word.charAt(index);
-        
-        
         if(c=='.'){
             for(int i=0;i<26;i++){
                 if(root.children[i]!=null){
-                    return dfs(root.children[i],word,index+1);
+                    if(dfs(root.children[i],word,index+1)) return true;
                 }
             }
             return false;
