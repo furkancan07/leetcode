@@ -19,7 +19,7 @@ class Solution {
         for(int i=0;i<26;i++){
             while(count[i]>0){
                 char temp=(char)(i+'a');
-                chars[first++]=temp;
+                chars[last--]=temp;
                 count[i]--;
             }
         }
