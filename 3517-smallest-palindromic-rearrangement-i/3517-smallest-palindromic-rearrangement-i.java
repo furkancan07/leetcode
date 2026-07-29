@@ -1,5 +1,6 @@
 class Solution {
  public static String smallestPalindrome(String s) {
+        if(s.length()==1) return s;
         int[] count=new int[26];
         for(char c : s.toCharArray()){
             count[c-'a']++;
