@@ -1,6 +1,6 @@
 class Solution {
     public int minimumPushes(String word) {
-         int[] count=new int[26];
+        int[] count=new int[26];
         for(char c:word.toCharArray()){
             count[c-'a']++;
         }
