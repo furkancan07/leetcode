@@ -119,6 +119,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/furkancan07/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/furkancan07/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/furkancan07/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0877-stone-game](https://github.com/furkancan07/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/furkancan07/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/furkancan07/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
