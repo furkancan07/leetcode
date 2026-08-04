@@ -1,5 +1,27 @@
 class Solution {
-     public List<Integer> findMissingElements(int[] nums) {
+   public List<Integer> findMissingElements(int[] nums) {
+          List<Integer> list=new ArrayList<>();
+          int min=Integer.MAX_VALUE;
+          int max=Integer.MIN_VALUE;
+          for(int i : nums){
+            min=Math.min(i,min);
+            max=Math.max(i,max);
+           
+          }
+          int[] count=new int[max+1];
+           for(int i : nums){
+            count[i]++;
+          }
+          for(int i=min;i<max;i++){
+            if(count[i]==0){
+                list.add(i);
+            }
+          }
+          return list;
+   }
+
+
+     public List<Integer> findMissingElements2(int[] nums) {
           List<Integer> list=new ArrayList<>();
           Set<Integer> set=new HashSet<>();
           int min=Integer.MAX_VALUE;
@@ -18,7 +40,7 @@ class Solution {
 
 
     }
-    public List<Integer> findMissingElements2(int[] nums) {
+    public List<Integer> findMissingElements3(int[] nums) {
           List<Integer> list=new ArrayList<>();
         int min=Integer.MAX_VALUE;
         int max=Integer.MIN_VALUE;
