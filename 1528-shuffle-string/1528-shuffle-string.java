@@ -4,7 +4,6 @@ public String restoreString(String s, int[] indices) {
         for(int i=0;i<indices.length;i++){
             c[indices[i]]=s.charAt(i);
         }
-        
         return new String(c);
         
     }
