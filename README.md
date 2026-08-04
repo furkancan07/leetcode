@@ -80,6 +80,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0211-design-add-and-search-words-data-structure](https://github.com/furkancan07/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/furkancan07/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0257-binary-tree-paths](https://github.com/furkancan07/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [1528-shuffle-string](https://github.com/furkancan07/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/furkancan07/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/furkancan07/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/furkancan07/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -93,6 +94,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0877-stone-game](https://github.com/furkancan07/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1528-shuffle-string](https://github.com/furkancan07/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [3731-find-missing-elements](https://github.com/furkancan07/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
