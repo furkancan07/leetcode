@@ -249,4 +249,5 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/furkancan07/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0577-employee-bonus](https://github.com/furkancan07/leetcode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
