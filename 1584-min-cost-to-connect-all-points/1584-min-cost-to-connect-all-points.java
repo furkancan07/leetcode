@@ -3,8 +3,6 @@ class Solution {
         int x;
         int y;
         int cost;
-
-
         public Edge(int x,int y,int cost){
             this.x=x;
             this.y=y;
@@ -24,7 +22,7 @@ class Solution {
             }
         }
 
-        Collections.sort(edges,(a,b)->a.cost-b.cost);
+     Collections.sort(edges,(a,b)->a.cost-b.cost);
 
       int total=0;
       int edgeCount=0;
