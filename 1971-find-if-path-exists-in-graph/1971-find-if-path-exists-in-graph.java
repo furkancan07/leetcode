@@ -2,6 +2,7 @@ class Solution {
     int dest;
     public boolean validPath(int n, int[][] edges, int source, int destination) {
         boolean[] visited=new boolean[n];
+        // map bellekte çok yer kapladığı için time limit hatası aldı
        /* Map<Integer,List<Integer>> graph=new HashMap<>();
         for(int[] edge : edges){
             graph.computeIfAbsent(edge[0],ArrayList::new).add(edge[1]);
