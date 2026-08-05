@@ -109,6 +109,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/furkancan07/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/furkancan07/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
@@ -158,6 +159,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0684-redundant-connection](https://github.com/furkancan07/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/furkancan07/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/furkancan07/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
@@ -209,6 +211,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0684-redundant-connection](https://github.com/furkancan07/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/furkancan07/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/furkancan07/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/furkancan07/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -231,6 +234,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/furkancan07/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/furkancan07/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/furkancan07/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Design
