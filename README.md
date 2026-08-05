@@ -104,6 +104,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0515-find-largest-value-in-each-tree-row](https://github.com/furkancan07/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/furkancan07/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -154,6 +155,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0515-find-largest-value-in-each-tree-row](https://github.com/furkancan07/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/furkancan07/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -204,6 +206,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/furkancan07/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/furkancan07/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/furkancan07/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/furkancan07/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -227,6 +230,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/furkancan07/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/furkancan07/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/furkancan07/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Design
