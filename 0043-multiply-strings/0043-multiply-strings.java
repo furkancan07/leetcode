@@ -1,19 +1,21 @@
 class Solution {
-       public String multiply(String num1,String num2){
-        if(num1.equals("0") || num2.equals("0")) return "0";
+
+    public String multiply(String num1,String num2){
 
         int j=num2.length()-1;
-       
+        int carry=0;
         List<String> list=new ArrayList<>();
+        String[] arr=new String[num2.length()];
+        int index=0;
 
         while(j>=0){
-        
+        int sum=carry;
         int result=1;
         if(j>=0) result*=num2.charAt(j--)-'0';
 
-        list.add( multiplyWithNum1(num1,result));
+        arr[index++]= multiplyWithNum1(num1,result);
     }
-        return helper(list);
+        return helper(arr);
     }
 
     private String multiplyWithNum1(String num1, int result) {
@@ -29,19 +31,19 @@ class Solution {
         return sb.reverse().toString();
     }
 
-  
-    public String helper(List<String> list){
-        if(list.isEmpty()){
+
+    public String helper(String[] arr){
+        if(arr.length==0) {
             return "0";
         }
-        for(int i=1;i<list.size();i++){
-            list.set(i,getStrings(list.get(i),i));
+        for(int i=1;i<arr.length;i++){
+            arr[i]=getStrings(arr[i],i);
         }
-        String result=list.get(0);
-        for(int i=1;i<list.size();i++){
-          result= addStrings(result,list.get(i));
+        String result=arr[0];
+        for(int i=1;i<arr.length;i++){
+          result= addStrings(result,arr[i]);
         }
-        return result;
+        return result.charAt(0)=='0'?"0":result;
 
 
     }
@@ -71,4 +73,5 @@ class Solution {
         return sb.toString();
 
     }
+      
 }
