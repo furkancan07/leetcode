@@ -3,11 +3,11 @@ class Solution {
         if(num1.equals("0") || num2.equals("0")) return "0";
 
         int j=num2.length()-1;
-        int carry=0;
+       
         List<String> list=new ArrayList<>();
 
         while(j>=0){
-        int sum=carry;
+        
         int result=1;
         if(j>=0) result*=num2.charAt(j--)-'0';
 
