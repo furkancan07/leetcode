@@ -1,5 +1,6 @@
 class Solution {
        public String multiply(String num1,String num2){
+        if(num1.equals("0") || num2.equals("0")) return "0";
 
         int j=num2.length()-1;
         int carry=0;
@@ -40,7 +41,7 @@ class Solution {
         for(int i=1;i<list.size();i++){
           result= addStrings(result,list.get(i));
         }
-        return result.charAt(0)=='0'?"0":result;
+        return result;
 
 
     }
