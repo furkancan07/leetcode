@@ -219,6 +219,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/furkancan07/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/furkancan07/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/furkancan07/leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/furkancan07/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Shortest Path
