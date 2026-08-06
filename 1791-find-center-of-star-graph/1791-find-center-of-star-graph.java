@@ -1,6 +1,14 @@
 class Solution {
-    // map ile bulma freq ile aynı algoritma
+    // em akkılıca algoirtma herkesin merkezo olduğuna göre elbet bu 2 edge de vardır ortak olanı döndür
      public int findCenter(int[][] edges) {
+        int a=edges[0][0];
+        int b=edges[0][1];
+        if(a==edges[1][0] || a==edges[1][1]) return a;
+        return b;
+    }
+
+    // map ile bulma freq ile aynı algoritma
+     public int findCenter3(int[][] edges) {
         Map<Integer,Integer> map=new HashMap<>();
         for(int[] edge : edges){
             for(int i : edge){
@@ -16,7 +24,7 @@ class Solution {
             }
         }
 
-            return result;
+        return result;
     }
     // freq ile bulma 
     public int findCenter2(int[][] edges) {
