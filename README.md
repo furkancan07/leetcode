@@ -92,6 +92,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0189-rotate-array](https://github.com/furkancan07/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/furkancan07/leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [0219-contains-duplicate-ii](https://github.com/furkancan07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0682-baseball-game](https://github.com/furkancan07/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0877-stone-game](https://github.com/furkancan07/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -126,6 +127,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0049-group-anagrams](https://github.com/furkancan07/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/furkancan07/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/furkancan07/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/furkancan07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/furkancan07/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/furkancan07/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/furkancan07/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -325,4 +327,8 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/furkancan07/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/furkancan07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
