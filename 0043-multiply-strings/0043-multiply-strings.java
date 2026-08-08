@@ -1,5 +1,7 @@
 class Solution {
        public String multiply(String num1,String num2){
+        if(num1.equals("0") || num2.equals("0")) return "0";
+        
 
         int j=num2.length()-1;
         List<String> list=new ArrayList<>();
@@ -40,7 +42,7 @@ class Solution {
         for(int i=1;i<arr.length;i++){
           result= addStrings(result,arr[i]);
         }
-        return result.charAt(0)=='0'?"0":result;
+        return result;
 
 
     }
@@ -68,6 +70,5 @@ class Solution {
             sb.append('0');
         }
         return sb.toString();
-
     }
 }
