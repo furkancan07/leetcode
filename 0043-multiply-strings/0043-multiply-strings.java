@@ -1,27 +1,27 @@
 class Solution {
-
-    public String multiply(String num1,String num2){
+       public String multiply(String num1,String num2){
 
         int j=num2.length()-1;
-        int carry=0;
         List<String> list=new ArrayList<>();
         String[] arr=new String[num2.length()];
         int index=0;
 
         while(j>=0){
-        int sum=carry;
         int result=1;
         if(j>=0) result*=num2.charAt(j--)-'0';
 
-        arr[index++]= multiplyWithNum1(num1,result);
+        arr[index]= multiplyWithNum1(num1,result,index++);
     }
         return helper(arr);
     }
 
-    private String multiplyWithNum1(String num1, int result) {
+    private String multiplyWithNum1(String num1, int result,int index) {
         int j=num1.length()-1;
         int carry=0;
         StringBuilder sb=new StringBuilder();
+        for(int i=0;i<index;i++){
+            sb.append('0');
+        }
         while(j>=0 || carry!=0){
             int sum=carry;//0
             if(j>=0) sum+=(num1.charAt(j--)-'0')*result; // 72
@@ -35,9 +35,6 @@ class Solution {
     public String helper(String[] arr){
         if(arr.length==0) {
             return "0";
-        }
-        for(int i=1;i<arr.length;i++){
-            arr[i]=getStrings(arr[i],i);
         }
         String result=arr[0];
         for(int i=1;i<arr.length;i++){
@@ -73,5 +70,4 @@ class Solution {
         return sb.toString();
 
     }
-      
 }
