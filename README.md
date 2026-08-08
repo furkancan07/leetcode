@@ -96,6 +96,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0228-summary-ranges](https://github.com/furkancan07/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0682-baseball-game](https://github.com/furkancan07/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0877-stone-game](https://github.com/furkancan07/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1528-shuffle-string](https://github.com/furkancan07/leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -130,6 +131,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0202-happy-number](https://github.com/furkancan07/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/furkancan07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/furkancan07/leetcode/tree/main/0290-word-pattern/) | Easy |
+| [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/furkancan07/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/furkancan07/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -187,6 +189,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0189-rotate-array](https://github.com/furkancan07/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/furkancan07/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/furkancan07/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/furkancan07/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/furkancan07/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -266,6 +269,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/furkancan07/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,4 +336,8 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/furkancan07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 <!---LeetCode Topics End-->
