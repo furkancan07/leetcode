@@ -93,6 +93,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0189-rotate-array](https://github.com/furkancan07/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0212-word-search-ii](https://github.com/furkancan07/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/furkancan07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/furkancan07/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0682-baseball-game](https://github.com/furkancan07/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0877-stone-game](https://github.com/furkancan07/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
