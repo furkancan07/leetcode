@@ -304,6 +304,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0511-game-play-analysis-i](https://github.com/furkancan07/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/furkancan07/leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/furkancan07/leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/furkancan07/leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/furkancan07/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
