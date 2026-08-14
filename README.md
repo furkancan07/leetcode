@@ -85,6 +85,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [1528-shuffle-string](https://github.com/furkancan07/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/furkancan07/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/furkancan07/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/furkancan07/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/furkancan07/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0290-word-pattern](https://github.com/furkancan07/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/furkancan07/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/furkancan07/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/furkancan07/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -340,6 +342,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/furkancan07/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/furkancan07/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
