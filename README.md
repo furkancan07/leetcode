@@ -103,6 +103,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [1091-shortest-path-in-binary-matrix](https://github.com/furkancan07/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1528-shuffle-string](https://github.com/furkancan07/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/furkancan07/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/furkancan07/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/furkancan07/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -273,6 +274,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/furkancan07/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/furkancan07/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
