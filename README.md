@@ -188,6 +188,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/furkancan07/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/furkancan07/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/furkancan07/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/furkancan07/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/furkancan07/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -349,4 +350,8 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/furkancan07/leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
