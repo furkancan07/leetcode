@@ -194,6 +194,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0171-excel-sheet-column-number](https://github.com/furkancan07/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/furkancan07/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/furkancan07/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/furkancan07/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0877-stone-game](https://github.com/furkancan07/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/furkancan07/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -371,4 +372,8 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/furkancan07/leetcode/tree/main/2029-stone-game-ix/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/furkancan07/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
