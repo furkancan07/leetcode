@@ -161,6 +161,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0515-find-largest-value-in-each-tree-row](https://github.com/furkancan07/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/furkancan07/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0785-is-graph-bipartite](https://github.com/furkancan07/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/furkancan07/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/furkancan07/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/furkancan07/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/furkancan07/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/furkancan07/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
@@ -185,6 +187,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | [0515-find-largest-value-in-each-tree-row](https://github.com/furkancan07/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/furkancan07/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/furkancan07/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +209,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/furkancan07/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/furkancan07/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +301,7 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/furkancan07/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2029-stone-game-ix](https://github.com/furkancan07/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/furkancan07/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/furkancan07/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -376,4 +381,8 @@ Bu depoda bir hata bulursanız veya daha iyi bir çözüm öneriniz varsa, issue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/furkancan07/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/furkancan07/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
