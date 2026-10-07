@@ -17,7 +17,6 @@ class Solution {
     public TreeNode balanceBST(TreeNode root) {
         List<Integer> list=new ArrayList<>();
         dfs(list,root);
-        list.sort((a,b)->a-b);
         return balance(list,0,list.size()-1);
     }
     public TreeNode balance(List<Integer> list,int start,int end){
@@ -30,8 +29,9 @@ class Solution {
     }
     public void dfs(List<Integer> list,TreeNode root){
       if(root==null) return;
-      list.add(root.val);
+     
       dfs(list,root.left);
+    list.add(root.val);
       dfs(list,root.right);
     }
 }
