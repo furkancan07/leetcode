@@ -16,7 +16,13 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> list=new ArrayList<>();
-        dfs(root,0,list);
+        if(root==null) return list;
+        Queue<TreeNode> queue=new ArrayDeque<>();
+        queue.offer(root);
+        int depth=0;
+       // dfs(root,0,list);
+       bfs(list,0,queue);
+     
         return list;
         
     }
@@ -31,4 +37,19 @@ class Solution {
         //sağ 
         dfs(root.right,depth+1,result);
     }
+
+    public void bfs(List<List<Integer>> list,int depth,Queue<TreeNode> queue){
+          while(!queue.isEmpty()){
+            int size=queue.size();
+            list.add(new ArrayList<>());
+            for(int i=0;i<size;i++){
+                TreeNode node=queue.poll();
+                list.get(depth).add(node.val);
+                if(node.left!=null) queue.offer(node.left);
+                if(node.right!=null) queue.offer(node.right);
+            }
+            depth++;
+        }
+    }
+   
 }
