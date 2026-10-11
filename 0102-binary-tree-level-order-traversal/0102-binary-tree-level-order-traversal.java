@@ -20,8 +20,8 @@ class Solution {
         Queue<TreeNode> queue=new ArrayDeque<>();
         queue.offer(root);
         int depth=0;
-       // dfs(root,0,list);
-       bfs(list,0,queue);
+         dfs(root,0,list);
+       // bfs(list,0,queue);
      
         return list;
         
